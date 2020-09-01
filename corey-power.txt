@@ -118,7 +118,7 @@ Link: https://codepen.io/corey-power/pen/BaKdgqa?editors=1100
     git push
 
     37. Walk me through Lambda's git flow. 
-    fork -> Invite Collaborators -> clone -> branch -> add -> commit -> push -> pull request -> TL reviewer -> Submit
+    fork -> Invite Collaborators -> clone -> branch -> add -> commit -> push -> pull request -> TL reviewer -> Submit.
 
 Stretch Questions
 
